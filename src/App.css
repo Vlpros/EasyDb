@@ -1,0 +1,23 @@
+.app-wrapper{
+  display: grid;
+  grid-template-rows: 80px 1fr;
+  grid-template-areas: "h h" "c c";
+}
+
+
+.header {
+  grid-area: h;
+  background-color: orange;
+  float:left;
+  width: 100%;
+}
+
+.content{
+ grid-area: c;
+background-color: #4682B4;
+}
+.navigation{
+  width:100%;
+  height: 80px;
+  
+}

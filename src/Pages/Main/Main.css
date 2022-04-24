@@ -1,0 +1,22 @@
+.filter{
+    width: 200px;
+    height: 50px;
+}
+.filter-box {
+    width: 100%;
+    height: 80px;
+    float: left;
+    display: inline-block;
+}
+.textarea{
+    width: 300px;
+    font-size: large;
+    float: left;
+}
+.dobav{
+    width: 150px;
+    height: 29px;
+    font-size: large;
+    float:left;
+   
+}
